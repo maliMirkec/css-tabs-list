@@ -16,9 +16,5 @@ CSS only tab solution posts:
 * http://www.sevensignature.com/blog/code/responsive-pure-css-tabs/
 * http://csscience.com/css3-tabs/
 
-CSS only tab solution codepen demos:
-* http://codepen.io/svinkle/full/edmDF/
-* http://codepen.io/mpiotrowicz/full/gocmu/
-* http://codepen.io/BeyondHyper/full/xZXXzj/
-* https://codepen.io/wallaceerick/full/ojtal/
+CSS only tab solutions on CodePen:
 * https://codepen.io/search/pens?q=css+tabs&limit=all&type=type-pens
